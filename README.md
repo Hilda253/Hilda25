@@ -53,9 +53,9 @@ READNE.md # documentation
 
 #Comment section:
 
-uses of `<textarea>` for multi-line text input.
+Uses of `<textarea>` for multi-line text input.
 
--#In the submittion form use of `<button>`represent a clickable button.
+In the submittion form use of `<button>`represent a clickable button.
 
 ## How to use/view the form.
 1. Clone this repository:
@@ -63,6 +63,6 @@ uses of `<textarea>` for multi-line text input.
    Go to vscode ,then terminal and set bash as te default profile:
 
    then clone
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Hilda253/Hilda25.git
    
    
