@@ -19,6 +19,16 @@ The form is desgned for user registration and includes the following sections:
 
 ## File structure.
 
+Your-repo-name/ 
+
+index.html
+
+#main html form implementation.
+
+READNE.md # documentation
+
+## Implementation notes.
+
 #Form notes are built with semantic HTML tags**
 
 `<header>`introductory content.
@@ -34,6 +44,7 @@ The form is desgned for user registration and includes the following sections:
 `<label>`defines a caption for a form input element.
 
 #Uses of imput types:
+
 (`text`,`email`.`password`,`tel`,`color`,`date`,`checkbox`.`file`)
 
 `<select>` creates a dropdown list of option.
@@ -41,13 +52,14 @@ The form is desgned for user registration and includes the following sections:
 `<option>` defines an item in a`<select>` dropdown.
 
 #Comment section:
+
 uses of `<textarea>` for multi-line text input.
 
 -#In the submittion form use of `<button>`represent a clickable button.
 
 ## How to use/view the form.
 1. Clone this repository:
-2. 
+   
    Go to vscode ,then terminal and set bash as te default profile:
    then clone
    git clone https://github.com/your-username/your-repo-name.git
