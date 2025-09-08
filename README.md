@@ -61,6 +61,7 @@ uses of `<textarea>` for multi-line text input.
 1. Clone this repository:
    
    Go to vscode ,then terminal and set bash as te default profile:
+
    then clone
    git clone https://github.com/your-username/your-repo-name.git
    
