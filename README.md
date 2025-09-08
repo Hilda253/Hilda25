@@ -5,7 +5,7 @@ Hello there I`m Hilda and am a student learning programming and a beginner in my
 Project form description.
 This repository contain a simple  Semantic HTML forms.It show a correct and demonstrates the use of semantic elements , forms controls and HTML structures.
 
-##Purpose of the Form.
+## Purpose of the Form.
 
 The form is desgned for user registration and includes the following sections:
 
@@ -17,9 +17,10 @@ The form is desgned for user registration and includes the following sections:
 
 **Agreement: Ensures users agree to terms and conditions before submitting**.
 
-##File structure.
+## File structure.
 
--#Form notes are built with semantic HTML tags**
+#Form notes are built with semantic HTML tags**
+
 `<header>`introductory content.
 
 `<main>` main content of a document.
@@ -32,19 +33,19 @@ The form is desgned for user registration and includes the following sections:
 
 `<label>`defines a caption for a form input element.
 
--#Uses of imput types:
+#Uses of imput types:
 (`text`,`email`.`password`,`tel`,`color`,`date`,`checkbox`.`file`)
 
 `<select>` creates a dropdown list of option.
 
 `<option>` defines an item in a`<select>` dropdown.
 
--#Comment section:
+#Comment section:
 uses of `<textarea>` for multi-line text input.
 
 -#In the submittion form use of `<button>`represent a clickable button.
 
-##How to use/view the form.
+## How to use/view the form.
 1. Clone this repository:
 2. 
    Go to vscode ,then terminal and set bash as te default profile:
