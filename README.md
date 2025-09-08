@@ -9,28 +9,28 @@ This repository contain a simple  Semantic HTML forms.It show a correct and demo
 
 The form is desgned for user registration and includes the following sections:
 
--**Personal Information**: full names,date of birth,and gender and profile photo.
+**Personal Information**: full names,date of birth,and gender and profile photo.
 
--**Contact and Address**: Information: contains Email address, phone number,personal website,city ,country postal code.
+**Contact and Address**: Information: contains Email address, phone number,personal website,city ,country postal code.
 
--**Interest and preferences and password confirmation**.
+**Interest and preferences and password confirmation**.
 
--**Agreement: Ensures users agree to terms and conditions before submitting**.
+**Agreement: Ensures users agree to terms and conditions before submitting**.
 
 ##File structure.
 
 -#Form notes are built with semantic HTML tags**
-1.`<header>`introductory content.
+`<header>`introductory content.
 
-2.`<main>` main content of a document.
+`<main>` main content of a document.
 
-3.`<form>`wraps the entire form.
+`<form>`wraps the entire form.
 
-4.`<fieldset>`to group related form elements together.
+`<fieldset>`to group related form elements together.
 
-5.`<footer>`defines a footer of a page. 
+`<footer>`defines a footer of a page. 
 
-6.`<label>`defines a caption for a form input element.
+`<label>`defines a caption for a form input element.
 
 -#Uses of imput types:
 (`text`,`email`.`password`,`tel`,`color`,`date`,`checkbox`.`file`)
