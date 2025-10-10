@@ -72,7 +72,7 @@ A jolly good and completely CSS-styled HTML form that is not only more attractiv
 
 ---
 
-## 🎨 Styling Approach
+##  Styling Approach
 The CSS was organized using a **modular approach**:
 - **Browser Reset styles** were applied to avoid any inconsistency across browsers.
 - The **Container and Flexbox layout** are utilized for the alignment and centering of sections' contents.
@@ -82,7 +82,7 @@ The CSS was organized using a **modular approach**:
 
 ---
 
-## 🌈 Color Palette
+##  Color Palette
 | Purpose | Color | Hex Code |
 |----------|--------|-----------|
 | Background | Light Gray | `#f4f4f9` |
@@ -93,7 +93,7 @@ The CSS was organized using a **modular approach**:
 
 ---
 
-## ✨ Features Implemented
+##  Features Implemented
 - **Hover and Focus Effects:** Buttons and input fields get color or border style changes on hover/focus.
 - **Active States:** Buttons display a pressed effect for greater interactivity.
 - **Transitions:** Soft transitions on color and border changes (`transition: 0.3s ease;`).
@@ -102,7 +102,7 @@ The CSS was organized using a **modular approach**:
 
 ---
 
-## 🌍 Browser Compatibility
+##  Browser Compatibility
 Tested and approved for use on:
 - Google Chrome (latest)
 - Mozilla Firefox (latest)
@@ -113,8 +113,10 @@ No significant rendering discrepancies detected. The CSS properties are commonpl
 
 ---
 
-## 🖼️ Screenshots
-*(Here you can put your form screenshots)*
+##  Screenshots
+<img width="1896" height="913" alt="Screenshot 2025-10-10 212620" src="https://github.com/user-attachments/assets/e2dab166-50ec-4a5e-8be3-9178e584852b" />
+
+<img width="1920" height="887" alt="Screenshot 2025-10-10 212059" src="https://github.com/user-attachments/assets/9203c7af-c2ee-4a02-8729-969eb7be4548" />
 
 **Example:**
 ![Styled Form Preview](formpreview.png)
@@ -124,7 +126,7 @@ The form layout is balanced, with sufficient space between the elements and the 
 
 ---
 
-## 🧑‍💻 Implementation Notes
+##  Implementation Notes
 - CSS file included via ``.
 - Class selectors were employed for the purpose of flexibility.
 - User interaction was enhanced by the use of pseudo-classes (`:hover`, `:focus`, `:active`, `:checked`).
